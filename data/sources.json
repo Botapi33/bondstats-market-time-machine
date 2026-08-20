@@ -1,6 +1,0 @@
-{
-  "fred_dgs2":{"name":"Federal Reserve / FRED — DGS2","url":"https://fred.stlouisfed.org/series/DGS2","note":"2-Year Treasury constant maturity rate, daily, percent."},
-  "fred_dgs10":{"name":"Federal Reserve / FRED — DGS10","url":"https://fred.stlouisfed.org/series/DGS10","note":"10-Year Treasury constant maturity rate, daily, percent."},
-  "fred_vix":{"name":"CBOE / FRED — VIXCLS","url":"https://fred.stlouisfed.org/series/VIXCLS","note":"CBOE Volatility Index, daily close."},
-  "fed_2008":{"name":"Federal Reserve — Monetary Policy in 2008","url":"https://www.federalreserve.gov/monetarypolicy/mpr_20090224_part3.htm","note":"Official discussion of 2008 monetary-policy decisions."}
-}
